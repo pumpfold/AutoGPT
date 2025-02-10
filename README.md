@@ -1,3 +1,15 @@
+# AutoDeepseek
+
+Rebuild AutoGpt with Deepseek interface
+
+- Stage 1
+     - Deepseek R1 remote interface
+     - Token save program
+- Stage 2
+     - Deepseek R1 Local Version
+     - Network interface rebuild 
+
+
 # AutoGPT: Build, Deploy, and Run AI Agents
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) &ensp;
